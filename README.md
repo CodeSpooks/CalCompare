@@ -1,2 +1,1 @@
-# blucubed.github.io
-My github page
+Just a starting point for cal compare
